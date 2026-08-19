@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Local configuration and API keys
+.env
+.env.local
+*.local
+
+# Storage and logs (Local-first user data)
+storage/local/
+logs/
+*.log
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
