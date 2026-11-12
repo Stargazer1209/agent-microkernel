@@ -107,3 +107,9 @@ Unlike rigid agent frameworks that force everything into either natural-language
 - [ ] **Phase 5: Vertical Slice MVP** — Shipping reference implementations of `harnessium/core/`, `harnessium/daemon/`, and dogfooding workflows (Academic Literature Distillation & Multi-Platform Media Publishing).
 
 Detailed architectural notes: [BLUEPRINT.md](BLUEPRINT.md) · [PLAN.md](PLAN.md)
+
+---
+
+## 📄 License
+
+Licensed under the [Apache License 2.0](LICENSE). All redistributions and derivative works must preserve the copyright notice and [NOTICE](NOTICE) attribution to **Xiaokang Zhao (Stargazer1209)**.
